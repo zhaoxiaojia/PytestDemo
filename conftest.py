@@ -9,7 +9,7 @@
 import pytest
 import smtplib
 import os
-from test_foocompare import Foo
+from tests.test_foocompare import Foo
 
 
 # 钩子名称固定
